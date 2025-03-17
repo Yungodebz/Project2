@@ -1317,7 +1317,7 @@ svg{
      }
   }
   
-  /* Extra Large Android phones (641px and above) */
+  /* Extra Large Android phones (641px and above)
   @media only screen and (min-width: 641px) {
     body {
         margin: 0;
@@ -1336,7 +1336,7 @@ svg{
       }
     
       .frame {
-        /*flex-direction: column;*/
+        /*flex-direction: column;
         margin: 0;
         margin-left: 30px;
       }
@@ -1364,7 +1364,7 @@ svg{
       }
     
       .box-container {
-       /* flex-direction: column;*/
+       /* flex-direction: column;
         margin: 0;
         padding: 0;
       }
@@ -1401,7 +1401,7 @@ svg{
       .Demo-area,
       .main-social,
       .end {
-      /*flex-direction: column;*/
+      /*flex-direction: column;
         margin: 0;
         padding: 0;
       }
